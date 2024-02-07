@@ -2,9 +2,35 @@ READ ME
 
 1. Gitlet 
 
+In this project, I implemented a version-control system called Gitlet, designed to emulate some of the
+foundational features of the widely recognized system, Git. My version, though more compact and 
+straightforward, serves the essential purpose of a version-control system: a backup mechanism for collections
+of related files. Gitlet enables:
+  -The saving of the contents of entire directories of files, a process I refer to as committing, with the saved contents termed commits.
+  -The restoration of previous versions of one or more files, known in Gitlet as restoring those files.
+  -The ability to view the history of backups through a feature I call the log.
+  -The management of related sequences of commits, identified as branches
 
 
 2. 2048
+
+In this project, I took on the role of developing the core logic behind a captivating game, building on a 
+foundation of pre-assembled GUI code, key-press handlers, and various other infrastructure components 
+provided to me. My primary responsibility involved enriching the Model.java file with essential functionality,
+detailing the game's response to specific user key-presses, and designing constructors to establish the 
+initial state of the game.
+
+The game, in its essence, is straightforward yet engaging. It unfolds on a grid filled with squares that can
+either be vacant or host a tile marked with an integer—a power of 2 starting from 2 upwards. At the commencement
+of the game, a tile bearing a value of either 2 or 4 is placed randomly on the board, which is initially empty.
+This initial tile's value is determined randomly, with a 2 being selected 75% of the time and a 4 the 
+remaining 25%.
+
+Gameplay is driven by the player's use of arrow keys to dictate the board's tilt direction: north, south,
+east, or west. This action causes all tiles to slide towards the chosen direction until they are obstructed 
+by the grid's edge or another tile. Notably, tiles that collide with a matching number merge, both clearing
+space on the board and granting the player points. This mechanic not only introduces a layer of strategic 
+depth to the game but also makes each move a critical decision point, emphasizing foresight and planning.
 
 3. BYOW
 
