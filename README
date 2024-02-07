@@ -2,6 +2,30 @@ READ ME
 
 1. Gitlet 
 
+
+
 2. 2048
+
+3. BYOW
+
+My task was to design and implement a 2D tile-based world exploration engine. By "tile-based," it meant that the worlds I crafted consisted 
+of a 2D grid of tiles, establishing a methodical yet adaptable framework for world design. The "world exploration engine" aspect of this
+endeavour required me to develop a world that users could navigate, allowing for exploration and interaction with various objects within this
+world, all from an overhead perspective.
+
+This project was an exhilarating challenge that married game design elements with the nuances of software engineering. I was tasked with
+contemplating both the technical execution of the tile-based system and the user experience of exploration and interaction. Although the 
+complexity of my project did not rival that of highly sophisticated systems like the NES game "Zelda II"—which served as an inspirational
+example—it was an engaging opportunity to dive into the mechanics of world-building and interactive design. My objective was to create a
+compelling and immersive environment that captured the spirit of exploration and adventure, albeit on a more modest scale.
+
+4. Deque
+
+5. Predicting_housing_prices
+
+6. SpamHam
+
+
+
 
 ....
