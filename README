@@ -23,7 +23,26 @@ compelling and immersive environment that captured the spirit of exploration and
 
 5. Predicting_housing_prices
 
+In project A1, I engaged in basic Exploratory Data Analysis (EDA), which set the foundation for my approach to modeling decisions. I explored
+the dataset, identified patterns, and made critical observations that informed my subsequent actions. During this process, I also expanded 
+the dataset with new features and undertook a thorough data cleaning exercise to enhance the dataset's quality and relevance.
 
+Building on that groundwork, my next task was to focus on specifying and fitting a linear model using select features of the housing data to
+predict house prices. This step involved a detailed analysis of the data to determine which features were most likely to influence house 
+prices, followed by the application of linear regression techniques to model these relationships. After developing the model, I meticulously
+examined its error metrics to understand its performance better and identify areas for improvement. This analysis was crucial for iterating 
+on the model to enhance its accuracy and reliability.
+
+The project then took a deeper dive into the broader implications of predictive modeling, particularly within the context of the Cook County
+Assessor's Office (CCAO) case study. Given that the CCAO relies on statistical modeling for property valuation, it was imperative to consider
+the historical context of racial discrimination in housing policy and property taxation within Cook County. This reflection was critical for
+assessing the impact of my modeling efforts and pondering the notion of fairness for property owners in the county. Such considerations were
+vital for ensuring that the modeling practices adopted could contribute positively to addressing longstanding inequities.
+
+Throughout this project, I became proficient in:
+  -Implementing a data processing pipeline using pandas, which included data cleaning, feature engineering, and preparation for modeling.
+  -Utilizing scikit-learn to construct and fit linear models, gaining valuable experience in applying this popular machine learning library to solve real-world problems.
+  -This experience was not just about developing technical skills but also about understanding the ethical considerations and potential societal impacts of predictive modeling, especially in sensitive areas like property valuation.
 
 
 6. SpamHam
