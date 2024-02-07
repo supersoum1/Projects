@@ -23,9 +23,31 @@ compelling and immersive environment that captured the spirit of exploration and
 
 5. Predicting_housing_prices
 
+
+
+
 6. SpamHam
 
 
+The project required setting up a Python environment and installing all dependencies, laying the groundwork for the SVM 
+classification tasks ahead. I worked with three datasets: a synthetic toy dataset, the widely recognized MNIST dataset of handwritten digits,
+and a spam dataset featuring featurized email data. Each dataset presented its unique challenges, from data loading and preprocessing to
+model training and evaluation.
 
+Training linear SVMs on the MNIST and spam datasets was a highlight of this project, allowing me to explore the effects of training size on
+model accuracy. This exercise was about applying SVMs and understanding the nuances of machine learning models, including
+the balance between complexity and performance.
+
+Data partitioning and evaluation metrics were crucial components of my project. I developed strategies for managing datasets and adopted 
+classification accuracy as a primary measure of model performance. Hyperparameter tuning was another area of focus, where I experimented 
+with different values of the regularization parameter C to optimize the soft-margin SVM algorithm. This enlightening process revealed
+the delicate interplay between model parameters and performance.
+
+I also ventured into k-fold cross-validation, particularly for the smaller spam dataset, to mitigate the high variance in accuracy
+estimates. This method proved invaluable, offering insights into the robustness of machine learning models across different data partitions.
+
+The culmination of my project was participating in Kaggle competitions for both the MNIST and spam datasets. This experience was not just
+about testing my models against unseen data but also about engaging in a broader community of machine learning practitioners. I explored 
+feature engineering and other techniques to enhance my models, always within the confines of using SVMs as mandated by the project guidelines.
 
 ....
